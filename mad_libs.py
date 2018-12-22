@@ -1,0 +1,15 @@
+noun = input("Enter a noun: ")
+name = input("Enter a name: ")
+verb = input("Enter a verb: ")
+pronoun = input("Enter a pronoun: ")
+color = input("Enter a color: ")
+adjective = input("Enter an adjective: ")
+
+print("\nThere once was a " + noun + " named " + name + "")
+print("Who wanted to learn how to " + verb + "")
+print("" + name + " tried and tried but just couldn't get it")
+print("Then one day " + pronoun + " found a magical rock")
+print("The rock was " + color + ", with shiny gemstones all over")
+print("" + name + " wished upon the shiny rock and became the world's " + adjective + " expert")
+print("The end.")
+
